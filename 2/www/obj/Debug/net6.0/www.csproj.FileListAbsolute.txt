@@ -1,0 +1,15 @@
+C:\Users\Max\Desktop\С#\LB2\www\www\bin\Debug\net6.0\www.exe
+C:\Users\Max\Desktop\С#\LB2\www\www\bin\Debug\net6.0\www.deps.json
+C:\Users\Max\Desktop\С#\LB2\www\www\bin\Debug\net6.0\www.runtimeconfig.json
+C:\Users\Max\Desktop\С#\LB2\www\www\bin\Debug\net6.0\www.dll
+C:\Users\Max\Desktop\С#\LB2\www\www\bin\Debug\net6.0\www.pdb
+C:\Users\Max\Desktop\С#\LB2\www\www\obj\Debug\net6.0\www.csproj.AssemblyReference.cache
+C:\Users\Max\Desktop\С#\LB2\www\www\obj\Debug\net6.0\www.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Desktop\С#\LB2\www\www\obj\Debug\net6.0\www.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\С#\LB2\www\www\obj\Debug\net6.0\www.AssemblyInfo.cs
+C:\Users\Max\Desktop\С#\LB2\www\www\obj\Debug\net6.0\www.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\С#\LB2\www\www\obj\Debug\net6.0\www.dll
+C:\Users\Max\Desktop\С#\LB2\www\www\obj\Debug\net6.0\refint\www.dll
+C:\Users\Max\Desktop\С#\LB2\www\www\obj\Debug\net6.0\www.pdb
+C:\Users\Max\Desktop\С#\LB2\www\www\obj\Debug\net6.0\www.genruntimeconfig.cache
+C:\Users\Max\Desktop\С#\LB2\www\www\obj\Debug\net6.0\ref\www.dll
